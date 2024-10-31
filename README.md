@@ -46,4 +46,6 @@ Run the program with:
 python3 autowp.py
 ```
 
+![Users Add Bulk](https://raw.githubusercontent.com/mariosdaskalas/autowp/refs/heads/main/users.png "Users")
+
 Tested with WordPress Version: 6.6.2

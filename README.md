@@ -36,6 +36,11 @@ To automate a process using the browser run
 playwright codegen
 ```
 
+Inside the data folder, in the target.txt place the domain
+that the WordPress host is.
+In the credentials.txt place the username and password
+in the format of root:root respectively.
+
 Run the program with:
 ```
 python3 autowp.py
